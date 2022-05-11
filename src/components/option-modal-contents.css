@@ -1,0 +1,9 @@
+.optionModalRow {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  margin: 10px;
+}
+.optionalMargin {
+  margin-right: 10px;
+}

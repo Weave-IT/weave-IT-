@@ -1,0 +1,38 @@
+body {
+  background-color: #ffffff;
+}
+.App {
+  color: white;
+}
+* {
+  font-family: "Nanum Gothic", sans-serif;
+  box-sizing: border-box;
+}
+.contents {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+}
+.mainAppWrapper {
+  min-width: 1000px;
+  max-width: 100%;
+  min-height: 700px;
+  max-height: 70vh;
+  overflow: scroll;
+}
+a:link {
+  color: black;
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+  text-decoration: none;
+}
+.innercontents {
+  display: flex;
+  margin-top: 50px;
+}

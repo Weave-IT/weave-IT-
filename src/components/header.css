@@ -1,0 +1,35 @@
+.title {
+  color: white;
+  font-size: 20px;
+  width: calc(100% - 100px);
+  background-color: #1a1f38;
+  margin-left: 50px;
+  margin-right: 50px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+}
+a:link {
+  color: white;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+.title a:hover {
+  color: white !important;
+  text-decoration: none;
+}
+.logo {
+  margin-left: 40px;
+  font-family: "Do Hyeon", sans-serif;
+  font-size: 30px;
+}
+.tab {
+  display: flex;
+  justify-content: space-evenly;
+  font-family: "Nanum Gothic", sans-serif;
+  font-weight: 700;
+  width: 100%;
+}

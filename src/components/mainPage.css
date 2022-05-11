@@ -1,0 +1,9 @@
+.mainPageTitle {
+  padding-top: 50px;
+}
+.mainPage {
+  width: 100vw;
+  height: 300vh;
+  background-image: url(images/main.jpg);
+  background-size: cover;
+}

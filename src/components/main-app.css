@@ -1,0 +1,28 @@
+.main-app {
+  display: flex;
+  flex-direction: column;
+}
+.mainApp-row {
+  display: flex;
+}
+.main {
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+.shafts {
+  margin-right: 20px;
+  margin-bottom: 8px;
+}
+.treadls {
+  margin-bottom: 20px;
+  margin-right: 8px;
+}
+.last {
+}
+.pattern-row {
+  display: flex;
+}
+.pattern-box {
+  display: flex;
+  flex-direction: column;
+}

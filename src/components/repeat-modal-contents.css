@@ -1,0 +1,17 @@
+.repeatModalRow {
+  display: flex;
+}
+.repeatSource {
+  display: flex;
+  flex-direction: column;
+}
+.repeatPosition {
+  width: 40px;
+}
+.repeatPositionWrapper {
+  display: flex;
+}
+.repeatModal {
+  display: flex;
+  justify-content: space-between;
+}

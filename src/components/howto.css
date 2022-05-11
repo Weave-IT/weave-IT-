@@ -1,0 +1,38 @@
+.howtoTitle {
+  background-color: hsla(208, 61%, 82%, 0.75);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-bottom: 15px solid hsla(230, 37%, 16%, 0.75);
+  margin-bottom: 30px;
+  padding-top: 50px;
+}
+.howtoTitle-subTitle {
+  text-align: center;
+  margin-bottom: 36px;
+  font-weight: 700;
+  font-family: "Nanum Gothic", sans-serif;
+}
+.howtoTitle-title {
+  font-size: 32px;
+  font-style: italic;
+  margin-bottom: 16px;
+
+  margin-top: 50px;
+  font-family: "Do Hyeon", sans-serif;
+}
+.howtoMain {
+  font-size: 20px;
+  color: #000000;
+  border-bottom: 2px solid #1a1f38;
+  margin-left: 200px;
+  margin-right: 200px;
+  font-weight: 700;
+}
+.step {
+  font-size: 16px;
+  color: #000000;
+  margin-left: 150px;
+  margin-top: 40px;
+  font-weight: 700;
+}
