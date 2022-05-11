@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/weave-IT-/static/css/main.7d2fd264.css",
-    "main.js": "/weave-IT-/static/js/main.c45f09fe.js",
+    "main.js": "/weave-IT-/static/js/main.e7272552.js",
     "static/js/787.2a15fa74.chunk.js": "/weave-IT-/static/js/787.2a15fa74.chunk.js",
     "static/media/main.jpg": "/weave-IT-/static/media/main.dbfba3c3b5aa39af5b71.jpg",
     "static/media/colchange.png": "/weave-IT-/static/media/colchange.b02cf05dbf0ed7701d1a.png",
@@ -10,11 +10,11 @@
     "static/media/setting.png": "/weave-IT-/static/media/setting.54b7362f6ef3ea0373ba.png",
     "index.html": "/weave-IT-/index.html",
     "main.7d2fd264.css.map": "/weave-IT-/static/css/main.7d2fd264.css.map",
-    "main.c45f09fe.js.map": "/weave-IT-/static/js/main.c45f09fe.js.map",
+    "main.e7272552.js.map": "/weave-IT-/static/js/main.e7272552.js.map",
     "787.2a15fa74.chunk.js.map": "/weave-IT-/static/js/787.2a15fa74.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d2fd264.css",
-    "static/js/main.c45f09fe.js"
+    "static/js/main.e7272552.js"
   ]
 }
